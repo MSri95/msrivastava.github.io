@@ -23,7 +23,7 @@ repository               : "academicpages/msrivastava.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  # avatar           : "IMG_4961.png"
   name             : "Malvika Srivastava"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical evolutionary ecology"
